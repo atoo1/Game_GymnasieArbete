@@ -1,0 +1,10 @@
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\bin\Debug\Spelet123.exe.config
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\bin\Debug\Spelet123.exe
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\bin\Debug\Spelet123.pdb
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.csprojResolveAssemblyReference.cache
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.Form_startMeny.resources
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.Properties.Resources.resources
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.csproj.GenerateResource.Cache
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.exe
+c:\users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.pdb
+C:\Users\30859\Documents\Visual Studio 2013\Projects\Spelet123\obj\Debug\Spelet123.GameForm.resources
